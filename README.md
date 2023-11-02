@@ -4,7 +4,7 @@
 
 # Welcome to Mchango
 
-Mchango is a software development company that specializes in developing and Decentralized applications, Mchango is commited to solving real world issues by leveraging the blockchain.
+Mchango is a software development company that specializes in developing Decentralized applications, Mchango is commited to solving real world issues by leveraging the blockchain.
 
 
 ## Acknowledgements
